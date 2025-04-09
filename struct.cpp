@@ -76,4 +76,5 @@ void DemoStructs(){
         PrintStudent(pVS[i]);
     //  PrintStudent(&pVS[i]);
     delete [] pVS;
+    //hi teacher, I'm sending you a commit. Sorry.
 }
